@@ -1,22 +1,22 @@
 # Safe Schools Reopening
 
-[Full map](/img/fullmap.PNG)
+![Full map](/img/fullmap.PNG)
 
 ## Introduction
 This project is a map of the school districts in California. It provides information for the status of schools reopening after developing a plan to handle the spread of COVID-19 safely. This map was made to show the progress of the "Covid-19 and Reopening In-Person Learning Framework for K-12 Schools in California, 2020-2021 School Year" developed by the California Department of Public Health. This map is displaying the data reported by each school district. Every other monday (or Tuesday if Monday is a state holiday), school districts will report their level of in-person learning, from distance learning to hybrid learning to in-person classes at each level of education, elementary, middle, and high school levels. The information is provided on the internet to be transparent to the people of California about the information the California Department of Public Health has at its disposal. This project could be useful for anyone trying to gain more information about the state of schooling in California during the pandemic.
 
 There are many web map elements on display here. The map includes a legend showing which colors represent which level of in-person schooling. Statistics that can be viewed are the level of in-person schooling, the eligibility to reopen, the planned date for reopening if it is not already, the prescence of a COVID safety plan with a link to view it, the amount of COVID funds received, the amount (in month supply) of PPE supplies received, the number of outbreaks in 2021, and the prescence of state testing in the school district.
 
-[Legend](/img/legend.PNG)
+![Legend](/img/legend.PNG)
 
 ## Critique
 The map also includes many interactive elements. The thematic layer can be changed to show the in-person education level of elementary, middle, or high school. The selected layer is highlighted in the selection `div`.
 
-[Thematic layer selection div](/img/selectiondiv.PNG)
+![Thematic layer selection div](/img/selectiondiv.PNG)
 
 Specific school districts can be searched on the map as well. The search also has an autocomplete feature to suggest to the user school districts to select based on user input.
 
-[search bar](/img/search.PNG)
+![search bar](/img/search.PNG)
 
 Each school district can be clicked on to view more in-depth information about the district. The
 
