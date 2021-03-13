@@ -14,9 +14,9 @@ There are many web map elements on display here. The map includes a legend showi
 ### Responsive Design
 This map supports responsive design. The map can be zoomed in and out to change the view, which is especially useful for smaller screens. Elements like the legend and the popup window can be hidden to view more of the map as well.
 
-![mobile with legend](/img/mobilelegend.jpeg =200)
+![mobile with legend](/img/mobilelegend.jpeg)
 
-![mobile no legend](/img/mobilenolegend.jpeg =200)
+![mobile no legend](/img/mobilenolegend.jpeg)
 
 ### Basemap and Thematic Layers
 
